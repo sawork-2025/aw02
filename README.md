@@ -17,8 +17,8 @@ Currently, it implements three commands which you can see using the `help` comma
  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
   '  |____| .__|_| |_|_| |_\__, | / / / /
  =========|_|==============|___/=/_/_/_/
- :: Spring Boot ::                (v3.0.4)
- 
+ :: Spring Boot ::               (v3.1.12)
+  
 shell:>help
 AVAILABLE COMMANDS
 
